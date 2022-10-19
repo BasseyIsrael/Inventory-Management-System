@@ -301,15 +301,15 @@ The BI dashboard was shared as an embeded webapp to reduce the number of "cooks"
 
 The Main Reporting Dashboard
 
-<img src="assets\main dashboard.png" alt="analysis" />
+<img src="assets\main dashboard.PNG" alt="analysis" />
 
 The Dashboard showing activity logs
 
-<img src="assets\data log.png" alt="analysis" />
+<img src="assets\data log.PNG" alt="analysis" />
 
 Data Input Platform
 
-<img src="assets\input interface.png" alt="analysis" />
+<img src="assets\input interface.PNG" alt="analysis" />
 
 
 
