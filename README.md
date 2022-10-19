@@ -305,7 +305,7 @@ The Main Reporting Dashboard
 
 The Dashboard showing activity logs
 
-<img src="assets\data log.PNG" alt="analysis" />
+<img src="assets\data log.png" alt="analysis" />
 
 Data Input Platform
 
